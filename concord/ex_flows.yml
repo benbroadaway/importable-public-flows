@@ -1,0 +1,6 @@
+flows:
+  importedPublicFlow:
+    - log: "This public flow was imported."
+    
+  importedPrivateFLow:
+    - log: "This private flow was imported."
