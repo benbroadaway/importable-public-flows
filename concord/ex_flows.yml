@@ -1,3 +1,6 @@
+publicFlows:
+  - importedPublicFlow
+
 flows:
   importedPublicFlow:
     - log: "This public flow was imported."
